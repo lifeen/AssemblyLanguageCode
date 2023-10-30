@@ -14,6 +14,8 @@ Some folks say assembly is tough, but I say, "Challenge accepted!" You'll discov
 Get ready to embark on an adventure that involves registers, memory addresses, and opcodes. It's like learning a secret language only your computer understands. 🤫
 So, if you're up for the challenge, hit that "Fork" button and join me on this epic journey. I'll be here to help, explain, and share a laugh or two along the way. Remember, assembly may be cryptic, but together, we'll demystify it one line of code at a time.
 
+Am also learning this stuff, just wanted to simplify reading assembly for anyone who's interested.
+
 **Let's rock the assembly world together! 🚀
 **
 
