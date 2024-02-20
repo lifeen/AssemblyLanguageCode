@@ -8,13 +8,7 @@ Learning assembly language can be tricky, so some C programming knowledge is goi
 I've documented my journey topically. Expect clear explanations about assembly from beginner to advanced!
 
 **🤖 Why Assembly? 🤖**
-Ever wondered how computers truly work? What if you could control them directly, like a skilled technician fine-tuning a complex machine? Assembly language lets you do just that! It's not easy, but with time you get the flow.
-
-Don't worry, even if it initially feels cryptic, we'll tackle it one line of code at a time, with explanations, and support along the way. 
-
-Am also learning this stuff, just wanted to simplify reading assembly for anyone who's interested.
-
-By the way I used cherrytree for these notes, and ms word for the others.
+Ever wondered how computers truly work? What if you could control them directly, like a skilled technician fine-tuning a complex machine? Assembly language lets you do just that! It's not easy, but with time you get the flow. Don't worry, even if it initially feels cryptic, we'll tackle it one line of code at a time, with explanations, and support along the way.  Am also learning this stuff, just wanted to simplify reading assembly for anyone who's interested. By the way I used cherrytree for these notes, and ms word for the others.
 
 **Let's rock the assembly world together! 🚀**
 
