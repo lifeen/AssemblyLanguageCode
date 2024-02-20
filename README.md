@@ -19,4 +19,4 @@ Am also learning this stuff, just wanted to simplify reading assembly for anyone
 **Let's rock the assembly world together! 🚀
 **
 
-I don't know if the book pdfs are copyrighted, coz I wanted to share all the books I mentioned in the last chapter of my notes? 
+
